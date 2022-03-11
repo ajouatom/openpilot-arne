@@ -95,3 +95,4 @@ pandaextra
 flycheck_*
 
 cppcheck_report.txt
+/.vs/
